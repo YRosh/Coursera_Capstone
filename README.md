@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera capstone project
+This repository contians the coursera capstone project
